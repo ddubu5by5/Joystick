@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="H4}BzA8?dE$)!%@:0.V?" x="0" y="0"></block><block type="device_forever" id="fJFa;H?#fwJWZCJix9P~" x="205" y="0"></block><block type="onButtonEvent" id="@^GOMOzbg;E0z3mLOY8k" x="5" y="216"><field name="button">joystickbit.JoystickBitPin.P12</field><field name="event">joystickbit.ButtonType.down</field><statement name="HANDLER"><block type="initJoystickBit" id="-%^0z+$#ECKsZ+?Q1Ez%"></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="H4}BzA8?dE$)!%@:0.V?" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="Y`Hc!,Idy{iL];n=b[q5"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # . # . 
+        . # # # .
+        `</field></block></statement></block><block type="device_forever" id="fJFa;H?#fwJWZCJix9P~" x="205" y="0"></block><block type="onButtonEvent" id="@^GOMOzbg;E0z3mLOY8k" x="59" y="328"><field name="button">joystickbit.JoystickBitPin.P12</field><field name="event">joystickbit.ButtonType.down</field><statement name="HANDLER"><block type="initJoystickBit" id="-%^0z+$#ECKsZ+?Q1Ez%"></block></statement></block></xml>
